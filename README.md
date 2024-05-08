@@ -1,7 +1,10 @@
 # Tip Calculator
 
+## For Web
 ![Tip Calculator Preview](./images/tip01.png)
 ![Tip Calculator Preview](./images/tip2.png)
+
+## For Mobile
 ![Tip Calculator Preview](./images/tip3.png)
 
 This is a simple tip calculator web application built using HTML, CSS, and JavaScript.
